@@ -9,3 +9,5 @@ The code for this ended up being very rough and intended mainly just to reach th
 It mainly works in a two-step process: one file to pull down Pokémon API data from https://pokeapi.co/, and then another file to take that data and fill in some templates.
 
 See output.pdf for the result!
+
+![image of text from output.pdf]('https://github.com/dawnithan/NaNoGenMo-2022/blob/main/adventure.png')

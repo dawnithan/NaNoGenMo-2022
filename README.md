@@ -10,4 +10,4 @@ It mainly works in a two-step process: one file to pull down Pokémon API data f
 
 See output.pdf for the result!
 
-![image of text from output.pdf]('https://github.com/dawnithan/NaNoGenMo-2022/blob/main/adventure.png')
+![image of text from output.pdf](https://user-images.githubusercontent.com/23389764/203681099-f584ed52-a4fc-4c72-bd4b-e1a8ee65f56e.png)
